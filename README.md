@@ -19,7 +19,7 @@ https://www.robinwieruch.de/web-applications/
 ### 1. 开篇
 
 - 前端框架概述
-  - 前端框架与 jQuery 区别（数据驱动，UI=render(state)）
+  - 前端框架与 jQuery 区别（数据驱动，UI=render(state)，声明式和命令式的区别）
   - 全家桶：核心库，路由，状态管理
   - 生态系统
 - 前端开发环境配置
