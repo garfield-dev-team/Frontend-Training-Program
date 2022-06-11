@@ -14,6 +14,10 @@ https://github.com/kamranahmedse/developer-roadmap
 
 https://www.robinwieruch.de/web-applications/
 
+### 算法 101
+
+https://101.zoo.team/
+
 ## 课程安排
 
 ### 1. 开篇
